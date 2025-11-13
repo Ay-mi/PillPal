@@ -2,10 +2,10 @@
 An automatic pill dispenser using an ESP32 microcontroller.
 
 ### Main features:
-- To automatically dispense pills based on a pre-set time (acheived using the ESP32 and app)
-- To notify the user that the pill has been dispensed (acheived though the app)
-- To alert the user when the pill stock has depleted (acheived though the app)
+- Automatically dispenses pills based on a pre-set schedule
+- Notifies the user that the pill has been dispensed (through the app and a speaker on the dispenser)
+- Alerts the user when the pill stock has depleted (through the app)
 
 ### Challenges:
-- To design the mechanical structure of the dispenser
-- To set the servo delay so only one pill is dispensed at a time
+- Designing the mechanical structure of the dispenser
+- Setting the servo delay so that the servo rotates enough so only one pill is dispensed at a time
